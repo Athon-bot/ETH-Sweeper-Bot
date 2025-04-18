@@ -1,4 +1,4 @@
-## 🧹 Ethereum Sweeper Bot
+## 🧹 pi wallet Sweeper Bot
 
 **How do Sweepers Work?**
 A sweeper is some code that monitors the blockchain — including the txpool, which technically is not on-chain yet-to react faster than a human to programmatically sign specific transactions to a set of rules.
